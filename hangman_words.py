@@ -1,0 +1,1 @@
+word_list = ["ardvark", "baboon", "camel", "Apple", "Banana", "Tiger", "Ocean", "Guitar", "Moon", "Sunshine", "Mountain", "Coffee", "Elephant", "Pizza", "Adventure", "Butterfly", "Firework", "Rainbow", "Laptop", "Book", "Robot", "Castle", "Dragon", "Ice Cream", "Galaxy", "Bicycle", "Camera", "Mystery", "Elephant", "Pajamas", "Jazz", "Diamond", "Kangaroo"]
